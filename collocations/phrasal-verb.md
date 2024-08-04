@@ -15,4 +15,10 @@
 - To brush up on it:
 	I love playing the guitar, but i need to brush up on it
 
-- 
+- Ask out: To somebody ask out
+
+- Take out: Take me out tommorrow
+
+- Lead on: To give the wrong idea.
+
+ 
