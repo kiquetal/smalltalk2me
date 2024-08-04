@@ -21,4 +21,11 @@
 
 - Lead on: To give the wrong idea.
 
+- Take over: I'm taking over the antique shop on the high street.
+
+- Deal in: I didn't know you dealt in antiques.
+
+- Stock up: I've already stocked up on bahtroom items.
+
+- Set up: I hear that you're setting up your own businessa
  
