@@ -17,4 +17,5 @@
 
 - Describe thoughts and opinions
 
-- 
+- Possesions (BELONG)
+ 
