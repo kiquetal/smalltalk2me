@@ -22,4 +22,6 @@ Can´t have: For a strong negative deduction or high certainty that something di
 
 He can't have finished the project, it was due today, and he's till working on it
 
-May/ Might have
+May/ Might have: Possibility of attending
+
+She might have been in the meeting
