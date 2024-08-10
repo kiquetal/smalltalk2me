@@ -2,7 +2,7 @@
 
 | Verb | Correct | Not Correct |
 | ---- | ------- | ----------- |
-| agree | She didnt agree with us |  --She wasnt agreeing with us-- |
+| agree | She didnt agree with us |  -- She wasnt agreeing with us -- |
 | appear | It appears to be rainning | --It is appearing to be raining-- |
 | believe | I don't believe the news | --I am not believing the news-- |
 | belong | This book belonged to my grandhfather | --Thihs book was belonging to my grandhfather-- | 
