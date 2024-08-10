@@ -15,7 +15,7 @@
 | dislike | I have disliked mushroom for years | ~~I have been disliking mushrooms for years~~|
 | doubt | I doubt what you are saying | ~~I am doubting what you are saying~~|
 | feel | I don´t feel that this is a good idea | ~~I am not feeling that this is a good idea~~ |
-| imagine | I imagine you must be tired | ~~ am imagining you must be tired~~ | 
+| imagine | I imagine you must be tired | ~~I am imagining you must be tired~~ | 
 | hate | Julie's always hated dog | ~~Julia's always been hating dogs~~ |
 | fit | This shirt fits me well | ~~This shirt is fitting me well~~ |
 | hear | Do you hear music? | ~~Are you hearing music?-- | 
