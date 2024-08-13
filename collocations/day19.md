@@ -1,5 +1,7 @@
 ### Closed question
 
+Aux + Subj + verb + 
+
 - Auxiliar verb
 
   Is he drinking cofee ?
