@@ -31,11 +31,11 @@
 | need | At three o'clock yesterday I needed a taxi | ~~At three o'clock yesterday I was needing a taxi~~ |
 | owe | I owe you $20 | ~~I am owing you 20$~~  |
 | own | She owns 2 cars | ~~he is owning 2 ears~~ | 
-| prefer | 
-| promise |
-| realise |
-| recognise |
-| remember |
+| prefer | I prefer chocolate | ~~I am preferring chococalte icem cream~~ | 
+| promise | I promise to help you | ~~I am promising to help you tomorrow~~ |
+| realise | I didn´t realize the problem | ~~I wasn't realising the problem~~ |
+| recognise | I didn't recognize my old friend | ~~I wasn't recognized my old friend ~~|
+| remember | 
 | seem |
 | sound |
 | suppose |
