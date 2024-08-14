@@ -35,10 +35,10 @@
 | promise | I promise to help you | ~~I am promising to help you tomorrow~~ |
 | realise | I didn´t realize the problem | ~~I wasn't realising the problem~~ |
 | recognise | I didn't recognize my old friend | ~~I wasn't recognized my old friend ~~|
-| remember | 
-| seem |
-| sound |
-| suppose |
+| remember | He did not remember him | ~~He is remembering them ~~ | 
+| seem | He seems to be upset | ~~The weather is seeming to be improving ~~|
+| sound | Your idea sounds great |  ~~Your idea is sounding great~~|
+| suppose | 
 | surprise |
 | understsand |
 | want | 
