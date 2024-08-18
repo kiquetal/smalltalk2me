@@ -13,5 +13,9 @@
 - fall
 - plummet (down far)
 
+### Up and Down
+
+- fluctuate
+
 The crime rate dropped last year
 The number felt 
