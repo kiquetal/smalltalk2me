@@ -36,7 +36,8 @@ Example: By the tiem you arrive, I'll have completed the presentation.
 
 ### Future continous
 
-It's formed using "will be + presenting participle - ing(
+It's formed using "will be + presenting participle - ing()
+
 
 Tomorrow at 8 PM, I will be studying for my exam.
 
